@@ -21,6 +21,7 @@ A personal portfolio website built using HTML, CSS, and JavaScript. The website 
 - JavaScript
 
 ## Live Demo
-
+https://ashithpoojary.github.io/PRODIGY_WD_04/
 
 ## GitHub Repository
+https://github.com/ashithpoojary/PRODIGY_WD_04
